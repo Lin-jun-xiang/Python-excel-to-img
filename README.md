@@ -3,7 +3,7 @@ Convert `.xlsx` file to `.png` easily.
 
 ---
 
-* Convert all the `text`, `image`, `color` to a image in xlsx
+* Convert all the `text`, `image`, `color` to a image from `.xlsx`
 
 ---
 
